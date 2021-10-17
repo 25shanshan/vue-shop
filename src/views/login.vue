@@ -1,6 +1,7 @@
 <template>
     <div>
-        这是登录组件2222
+
+        这是登录组件89865656
     </div>
 </template>
 <script>
